@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="MOVIE_LIST">MOVIE_LIST</string>
+    <string name="release_year">Release Year</string>
+    <string name="search">Search</string>
+    <string name="search_movies">Search movies by name</string>
+    <string name="unknown">Unknown</string>
+    <string name="network_required">Network required</string>
+    <string name="internet_access_is_required_">Internet needs to be active inorder to get movies!</string>
+    <string name="enable_internet">Enable Internet</string>
+</resources>
